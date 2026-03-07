@@ -7,7 +7,7 @@ This comprehensive guide is designed from the ground up to teach you how network
 ## 📖 Table of Contents
 
 1. [Network Models and Encapsulation](01-Network-Models-and-Encapsulation.md)
-2. [Addressing and Subnetting](02-Addressing-and-Subnetting.md) _(Coming Soon)_
+2. [Addressing and Subnetting](02-Addressing-and-Subnetting.md)
 3. [Transport Protocols and Ports](03-Transport-Protocols-and-Ports.md) _(Coming Soon)_
 4. [Layer 2 Switching and VLANs](04-Layer-2-Switching-and-VLANs.md) _(Coming Soon)_
 5. [Network Routing and NAT](05-Network-Routing-and-NAT.md) _(Coming Soon)_
