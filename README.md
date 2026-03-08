@@ -11,7 +11,7 @@ This comprehensive guide is designed from the ground up to teach you how network
 3. [Transport Protocols and Ports](03-Transport-Protocols-and-Ports.md)
 4. [Layer 2 Switching and VLANs](04-Layer-2-Switching-and-VLANs.md)
 5. [Network Routing and NAT](05-Network-Routing-and-NAT.md)
-6. [Physical Layer and Cabling](06-Physical-Layer-and-Cabling.md) _(Coming Soon)_
+6. [Physical Layer and Cabling](06-Physical-Layer-and-Cabling.md)
 7. [Troubleshooting Tools](07-Troubleshooting-Tools.md) _(Coming Soon)_
 8. [Glossary of Networking Terms](Glossary.md) _(Coming Soon)_
 
